@@ -1,0 +1,16 @@
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.exe
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.deps.json
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.runtimeconfig.json
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.dll
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\ref\LinqVsLoop.dll
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\bin\Debug\net5.0\LinqVsLoop.pdb
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.AssemblyInfo.cs
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.dll
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\ref\LinqVsLoop.dll
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.pdb
+C:\Users\anteu\source\repos\LinqVsLoop\LinqVsLoop\obj\Debug\net5.0\LinqVsLoop.genruntimeconfig.cache
